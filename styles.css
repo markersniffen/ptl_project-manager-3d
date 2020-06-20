@@ -1,0 +1,21 @@
+html {
+  background-color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nodes { 
+  stroke: #222222;
+  stroke-width: 1px;
+}
+
+.links {
+  stroke: #444444;
+  stroke-width: 4px;
+}
+
+.labels {
+  fill: white;
+  stroke-width: 0;
+  text-anchor: middle;
+  dominant-baseline: central;
+}
